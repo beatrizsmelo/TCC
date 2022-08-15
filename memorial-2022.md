@@ -1,4 +1,4 @@
-# Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2005 - 2008)
+# Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2019 - 2023)
 
 Beatriz Melo
 
