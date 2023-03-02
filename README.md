@@ -1,17 +1,15 @@
 # Nome do projeto
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+(Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.)
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Beatriz Soares de Melo
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Cleiton Silva Tavares (TCCI)
+* Jose Laerte Pires Xavier Junior (TCCI)
 
 ## Instruções de Replicação/Reprodução
 
