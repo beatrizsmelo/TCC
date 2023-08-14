@@ -16,7 +16,7 @@ Para a época em que os restaurantes do país se encontravam em situação delic
 
 Um outro projeto o “VagaLugue”, que permitia com que pessoas alugassem suas garagens por um período estabelecido, podendo este ser, por hora, dia ou mês, e o valor fosse negociado entre o cliente e o dono da vaga, visando o público que trabalha em áreas movimentadas da cidade e em donos das vagas que muitas vezes ficam livres durante todo o dia. 
 
-Em sua carreira, durante a graduação Beatriz sempre atuou na área da qualidade. Em seu primeiro estágio em que ainda cursando Engenharia da Computação, ela atuou em uma empresa de sistemas ERP (do inglês _ Enterprise Resource Planning _ ), e atuava com a conferência de arquivos e gestão do sistema produzido na linguagem Delphi, de dezembro de 2015 a janeiro e 2018. 
+Em sua carreira, durante a graduação Beatriz sempre atuou na área da qualidade. Em seu primeiro estágio em que ainda cursando Engenharia da Computação, ela atuou em uma empresa de sistemas ERP (do inglês *Enterprise Resource Planning*), e atuava com a conferência de arquivos e gestão do sistema produzido na linguagem Delphi, de dezembro de 2015 a janeiro e 2018. 
 
 Em seu segundo estágio, em que foi realizado também o estágio supervisionado, ela atuou como analista de qualidade de software, de um sistema ERP voltado para gestão de estoque e venda, de março de 2018 a novembro de 2019. Durante esse estágio a aluna realizou a reopção de curso para Engenharia de Software do Instituto de Informática da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
